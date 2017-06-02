@@ -1,1 +1,3 @@
-Hello,Osman!
+<<<<<<< HEAD
+Hello!I am Osman.
+
